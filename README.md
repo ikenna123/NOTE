@@ -1,0 +1,2 @@
+# NOTE
+Project on bit
